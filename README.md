@@ -82,60 +82,79 @@ fc-cache -fv
 
 [ninjaaron, bitocra](https://github.com/ninjaaron/bitocra)
 
+	* [bitocra](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/bitocra-11.png)
+
+	* [bitocra](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/bitocra-13.png)
+
 [caffeinebasedlifeform, boxxy](https://aur.archlinux.org/packages/bdf-boxxy-font/)
-	![boxxy](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/boxxy-14.png)
+
+	* [boxxy](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/boxxy-14.png)
 
 [Christian Gruen, CG Mono](http://www.proggyfonts.net/download/)
 
 [romeovs, creep](https://github.com/romeovs/creep)
-	![creep](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/creep-16.png)
+
+	* [creep](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/creep-16.png)
 
 [bjin, ctrld-font](https://github.com/bjin/ctrld-font)
-	![ctrld](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/ctrld-13.png)
+
+	* [ctrld](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/ctrld-13.png)
 
 [Jørgen Ibsen, Dina](http://www.donationcoder.com/Software/Jibz/Dina/index.html)
-	![dina](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/dina-12.png)
+
+	* [dina](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/dina-12.png)
 	
 [dylex, dylex-fonts](https://github.com/dylex/fonts)
-	![dylex](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/dylex-10.png)
+
+	* [dylex](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/dylex-10.png)
 
 [Ypnose, envypn](https://aur.archlinux.org/packages/envypn-font/)
-	![envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-13.png)
+
+	* [envypn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/envypn-13.png)
 
 [?, erusfont](https://aur.archlinux.org/packages/erusfont/)
-	![erusfont](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/erusfont-11.png)
+
+	* [erusfont](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/erusfont-11.png)
 
 [Giles Orr, VGA Fonts for X](http://www.gilesorr.com/bashprompt/xfonts/)
 
 [Hugo Chargois, gohufont](http://font.gohu.org/)
+
 	![gohu](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/gohu-14.png)
 
 [tonkazoid, gomme](https://github.com/tonkazoid/gomme)
+
 	![gomme](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/gomme-20.png)
 
 [Jim Knobles, jmk-fonts](http://www.jmknoble.net/fonts/)
 
 [kakwa, kakwafont](http://carpenti.iiens.net/kakwafont/)
+
 	![kakwa](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/kakwa-12.png)
 
 [bytensky, knxt](https://github.com/bytensky/knxt)
+
 	![knxt](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/knxt-20.png)
 
 [Semware, kourier](http://www.semware.com/html/tseprofilesr.php#FONTS)
 
 [wiktor-b, leggie](https://github.com/wiktor-b/leggie)
+
 	![leggie](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/leggie-12.png)
 
 [hishamhm, lode](https://github.com/hishamhm/lode-fonts)
+
 	![lode](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/lode-15.png)
 
 [Lokaltog, lokaltog-fonts](https://github.com/Lokaltog/lokaltog-fonts)
 
 [metan-ucw, Haxor](https://github.com/metan-ucw/fonts)
+
 	![haxor](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/haxor-12.png)
 	![haxor-narrow](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/haxor-narrow-15.png)
 
 [bok, MonteCarlo](http://www.bok.net/MonteCarlo/)
+
 	![montecarlo](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/montecarlo-11.png)
 
 [?, M+ fonts](http://mplus-fonts.osdn.jp/mplus-bitmap-fonts/index.html)
@@ -143,23 +162,27 @@ fc-cache -fv
 [stlarch, ohsnap](http://sourceforge.net/projects/osnapfont/)
 
 [Nicolas Botti, Opti](http://www.proggyfonts.net/download/)
+
 	![opti](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/opti-11.png)
 
 [Micah Elliott, Orp-Font](https://github.com/MicahElliott/Orp-Font)
+
 	![orp](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/orp-12.png)
 
 [phallus, Lemon/Uushi](https://github.com/phallus/fonts)
+
 	![lemon](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/lemon-10.png)
-	
 	![uushi](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/uushi-11.png)
 	
 [The Wolf, Pixel Carnage](http://www.proggyfonts.net/download/)
 
 [Tobias Jung, profont](http://tobiasjung.name/profont/)
+
 	![profont](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/profont-12.png)
 	![profont-semi](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/profont-semi-12.png)
 
 [?, proggy](http://www.proggyfonts.net/download/)
+
 	![proggy-cleansz](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/proggy-cleansz-13.png)
 	![proggy-small](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/proggy-small-10.png)
 	![proggy-square](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/proggy-square-11.png)
@@ -167,37 +190,47 @@ fc-cache -fv
 	![proggy-tinysz](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/proggy-tinysz-10.png)
 
 [Glenn Schemenauer, progsole](http://www.proggyfonts.net/download/)
+
 	![progsole](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/progsole-10.png)
 
 [Raize Software, raize](http://www.raize.com/DevTools/Tools/RzFont.asp)
+
 	![raize](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/raize-13.png)
 
 [gstk, siji](https://github.com/gstk/siji)
 
 [Walter Reel, Speedy](http://www.proggyfonts.net/download/)
+
 	![speedy](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/speedy-12.png)
 
 [stlarch, stlarch-font](http://sourceforge.net/projects/stlarchfont/)
 
 [Scott Fial, tamsyn](http://www.fial.com/~scott/tamsyn-font/)
+
 	![tamsyn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tamsyn-13.png)
 
 [stlarch, tamsynmod](http://sourceforge.net/projects/tamsynmod/)
+
 	![tamsynmod](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tamsynmod-12.png)
 	
 [sunaku, tamzen](https://github.com/sunaku/tamzen-font)
+
 	![tamzen](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tamzen-13.png)
 
 [stlarch, terminusmod](http://sourceforge.net/projects/terminusmod/)
+
 	![terminusmod](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/terminusmod-12.png)
 
 [stlarch, termsyn](http://sourceforge.net/projects/termsyn/)
+
 	![termsyn](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/termsyn-12.png)
 
 [lucy, tewi](https://github.com/lucy/tewi-font)
+
 	![tewi](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tewi-11.png)
 
 [Tobias Werner, tobi](http://www.proggyfonts.net/download/)
+
 	![tobi](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/tobi-12.png)
 
 [Henning Koch, Triskweline](http://www.netalive.org/tinkering/triskweline/)
@@ -209,6 +242,7 @@ fc-cache -fv
 [holomorph, xbmicons](https://github.com/holomorph/xbmicons)
 
 [Zevv, zevv-peep](http://zevv.nl/play/code/zevv-peep/)
+
 	![peep](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/peep-14.png)
 
 [rtrn, plan9fonts](https://github.com/rtrn/plan9fonts)
@@ -222,14 +256,6 @@ fc-cache -fv
 *	**bitbuntufull**
 
 	![bitbuntufull](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/bitbuntufull-10.png)
-
-*	**bitcora**
-
-	![bitcora](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/bitcora-11.png)
-
-*	**bitcora**
-
-	![bitcora](https://github.com/easysid/bitmap-fonts/raw/master/screenshots/bitcora-13.png)
 
 *	**terminus**
 
